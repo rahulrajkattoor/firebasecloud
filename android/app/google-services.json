@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817342645783",
+    "project_id": "cloud-e86c6",
+    "storage_bucket": "cloud-e86c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817342645783:android:074487a01e119f9a29fe52",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8T4rmn9qt5HeiPz1hHR0-bzgnpuTA0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
